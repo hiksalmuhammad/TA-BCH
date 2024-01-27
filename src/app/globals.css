@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.kaisei {
+  font-family: var(--font-kaisei);
+}
+
+.inter {
+  font-family: var(--font-inter);
+}
